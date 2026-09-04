@@ -38,7 +38,7 @@
 		<dc:title id="fulltitle">The Wheels of Chance: A Bicycling Idyll</dc:title>
 		<meta property="file-as" refines="#fulltitle">Wheels of Chance: A Bicycling Idyll, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">England -- Social conditions -- 19th century</dc:subject>
+		<dc:subject id="subject-1">England--Social conditions--19th century</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043316</meta>
 		<dc:subject id="subject-2">Cycling in Literature</dc:subject>
