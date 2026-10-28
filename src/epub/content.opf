@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1264</dc:source>
 		<dc:source>https://archive.org/details/wheelsofchancebi00welluoft</dc:source>
-		<meta property="schema:wordCount">55819</meta>
+		<meta property="schema:wordCount">55820</meta>
 		<meta property="schema:educationalLevel">74.79</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Wheels_of_Chance" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
